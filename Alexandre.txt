@@ -5,5 +5,9 @@ Aprendendo GitHub!!!
 Luana:
 Oi, Alexandre! vc está bem?
 
+Olá Luana, estou bem sim e você?
+
 Guilherme:
 Alexandre, gostou do GitHub Desktop ou preferia pelo terminal?
+
+Adorei!!! E muito obrigado pela ajuda!!!
